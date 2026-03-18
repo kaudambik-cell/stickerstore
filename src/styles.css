@@ -1,0 +1,18 @@
+.sticker-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.sticker-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  width: 200px;
+}
+
+.sticker-card img {
+  border-radius: 4px;
+}
